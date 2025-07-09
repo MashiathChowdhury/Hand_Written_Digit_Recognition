@@ -1,2 +1,67 @@
-# Hand_Written_Digit_Recognition
-This project uses a Convolutional Neural Network trained on the MNIST dataset to recognize handwritten digits (0-9). It includes preprocessing to handle real images and a Streamlit app for easy digit prediction from uploaded images. A simple, effective example for learning deep learning and computer vision basics
+🎥[Demo Video](https://drive.google.com/file/d/1f7DOoUNWSXQAsTQljSB36yrX1eFnTjRz/view?usp=sharing)
+📊[Presentation Slide](https://docs.google.com/presentation/d/1CNwSbBuj16w-7eIoJLB2fshoPD-fXSDJ/edit?usp=sharing&ouid=102369547434363917357&rtpof=true&sd=true)
+
+
+# ✍️ Handwritten Digit Recognition
+
+This project builds a Convolutional Neural Network (CNN) model to recognize handwritten digits (0-9) using the MNIST dataset. It includes image preprocessing for real-world digit inputs and a Streamlit web app for live digit classification from user-uploaded images.
+
+## 🚀 Features
+
+* CNN-based digit classification with TensorFlow & Keras
+* Real-world image preprocessing to improve accuracy
+* Streamlit app for interactive digit prediction
+* Simple interface for uploading images and viewing results
+
+## 📁 Project Structure
+
+```
+handwritten-digit-recognition/
+├── model_training.ipynb
+├── hand_written_digit_recognition.keras
+├── app.py
+├── README.md
+└── requirements.txt
+```
+
+## 🧠 Model Details
+
+* Framework: TensorFlow & Keras
+* Input image size: 28x28 grayscale
+* Model type: Sequential CNN
+* Saved model format: `.keras`
+
+## 🖥 How to Run
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/yourusername/handwritten-digit-recognition.git
+cd handwritten-digit-recognition
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+4. Upload a handwritten digit image and get the prediction!
+
+## 🤝 Contributions
+
+Pull requests are welcome! Feel free to fork and improve the project.
+
+## 📜 License
+
+This project is open-source under the MIT License.
+
+---
+
+If you want, I can also prepare a `requirements.txt` for you!
