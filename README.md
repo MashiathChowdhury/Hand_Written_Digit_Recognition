@@ -1,4 +1,4 @@
-🎥[Demo Video](https://drive.google.com/file/d/1f7DOoUNWSXQAsTQljSB36yrX1eFnTjRz/view?usp=sharing)
+🎥[Demo Video](https://drive.google.com/file/d/1ZGjFkBHEFNWgNdJrQj7QmsKWd1Yf7Hhj/view?usp=sharing)
 📊[Presentation Slide](https://docs.google.com/presentation/d/1CNwSbBuj16w-7eIoJLB2fshoPD-fXSDJ/edit?usp=sharing&ouid=102369547434363917357&rtpof=true&sd=true)
 
 
@@ -36,7 +36,7 @@ handwritten-digit-recognition/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/handwritten-digit-recognition.git
+git clone [https://github.com/yourusername/handwritten-digit-recognition.git](https://github.com/MashiathChowdhury/Hand_Written_Digit_Recognition.git)
 cd handwritten-digit-recognition
 ```
 
