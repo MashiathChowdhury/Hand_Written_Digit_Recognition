@@ -36,7 +36,7 @@ handwritten-digit-recognition/
 1. Clone the repo:
 
 ```bash
-git clone [https://github.com/yourusername/handwritten-digit-recognition.git](https://github.com/MashiathChowdhury/Hand_Written_Digit_Recognition.git)
+git clone (https://github.com/MashiathChowdhury/Hand_Written_Digit_Recognition.git)
 cd handwritten-digit-recognition
 ```
 
