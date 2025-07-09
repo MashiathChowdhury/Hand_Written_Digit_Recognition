@@ -1,5 +1,5 @@
 🎥[Demo Video](https://drive.google.com/file/d/1ZGjFkBHEFNWgNdJrQj7QmsKWd1Yf7Hhj/view?usp=sharing)
-📊[Presentation Slide](https://docs.google.com/presentation/d/1CNwSbBuj16w-7eIoJLB2fshoPD-fXSDJ/edit?usp=sharing&ouid=102369547434363917357&rtpof=true&sd=true)
+📊[Presentation Slide](https://docs.google.com/presentation/d/1T89MVqT9AvYzAvvibxmOrtZ09IOEzVIW/edit?usp=sharing&ouid=107929107031889652431&rtpof=true&sd=true)
 
 
 # ✍️ Handwritten Digit Recognition
